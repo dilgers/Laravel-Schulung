@@ -1,0 +1,59 @@
+https://php.watch/versions/8.1/readonly
+
+
+Spatie:
+https://spatie.be/
+https://testing-laravel.com/
+https://laravelpackage.training/
+
+https://spatie.be/docs/laravel-permission/v5/installation-laravel
+
+https://freek.dev/2300-making-sure-routes-config-and-events-of-your-laravel-app-are-cached-in-production
+
+Other:
+
+https://josephsilber.com/posts/2016/08/03/authorization-improvements-in-laravel-5-3#table-of-contents
+
+
+https://github.com/laravel/ui
+
+https://medium.com/@antoine.lame/laravel-asynchronous-and-concurrent-http-requests-9c8e3e6d36bd
+
+
+
+Google:
+
+laravel jetstream
+
+laravel breeze
+
+laravel sanctum
+
+mailtrap
+
+symfony php
+
+laravel pdf
+
+laravel chunk
+
+laravel package (sehr umfangreich)
+
+laravel Service Container
+
+laravel cache
+laravel redis
+
+laravel websocket
+
+laravel eloquent bottleneck -> how to find laravel bottlenecks?
+
+
+
+
+Queable laravel
+QUEUE_CONECTION=database
+php artisan queue:work --stop-when-empty  oder Docker, der queue ausführt
+
+
+php artisan make:job
