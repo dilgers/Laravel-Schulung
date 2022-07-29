@@ -79,3 +79,17 @@ composer skrit anlegen und dann z.B. composer test ausführen
 
 
 laravel websocket (und laravel echo) (pusher service raussuchen z.B. Pusher.com)
+
+
+youtube: LaravelDaily [codeReview]
+laravel-news.com
+laravelexamples.com
+laracasts.com
+
+
+
+
+Gute Plugins:
+phpStorm
+laravel Ideas
+CodeCopilot
