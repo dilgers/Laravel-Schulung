@@ -1,5 +1,6 @@
 https://php.watch/versions/8.1/readonly
 
+laracast.com (kurse zu laravel)
 
 Spatie:
 https://spatie.be/
@@ -49,6 +50,13 @@ laravel websocket
 laravel eloquent bottleneck -> how to find laravel bottlenecks?
 
 
+laravel octane (paralel run of php)
+
+laravel Telescop (überwachung, mit fehler reporting/Ticket System)
+
+laravel scout
+
+laravel socialite (login mit google/facbook usw.)
 
 
 Queable laravel
@@ -57,3 +65,17 @@ php artisan queue:work --stop-when-empty  oder Docker, der queue ausführt
 
 
 php artisan make:job
+
+
+
+Multipble Datenbaken:
+Model  --construct(array $attributes = []) { parent::__construct($attributes);   $this->setConnection('user_connection'); }
+
+
+
+
+php artisan test --parallel  (für paralleles ausführen von Tests)
+composer skrit anlegen und dann z.B. composer test ausführen 
+
+
+laravel websocket (und laravel echo)
