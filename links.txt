@@ -78,4 +78,4 @@ php artisan test --parallel  (für paralleles ausführen von Tests)
 composer skrit anlegen und dann z.B. composer test ausführen 
 
 
-laravel websocket (und laravel echo)
+laravel websocket (und laravel echo) (pusher service raussuchen z.B. Pusher.com)
